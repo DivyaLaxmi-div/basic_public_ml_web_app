@@ -9,7 +9,7 @@ You just need to enter some health-related details, and the app will tell whethe
 
 ## 🚀 How to Use the App
 
-🔗 **Live App Link**: [Click here to open the app](https://your-streamlit-app-link)
+🔗 Live App Link: [Click here to open the app](https://divyalaxmi-div-basic-public-ml-web-app.streamlit.app/)
 
   1. Open the link.
   2. Select the disease you want to check.
