@@ -9,10 +9,6 @@ You just need to enter some health-related details, and the app will tell whethe
 
 ## 🚀 How to Use the App
 
-## 🔗 Live App
-
-[Click here to view the deployed Streamlit app](https://divyalaxmi-div-basic-public-ml-web-app.streamlit.app/)
-
   1. Open the link.
   2. Select the disease you want to check.
   3. Fill in the details (like age, blood pressure, etc.).
